@@ -59,6 +59,3 @@
   ![CANVA](https://img.shields.io/badge/canva-%2359C6EC.svg?style=for-the-badge&logo=canva&logoColor=white) 
   ![WORDPRESS](https://img.shields.io/badge/wordpress-%237FBACF.svg?style=for-the-badge&logo=wordpress&logoColor=white) 
 
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bricec6&label=Profile%20views&color=8f8f8f&style=flat" alt="bricec6" /> </p>
