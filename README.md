@@ -1,7 +1,3 @@
-# 🧑 Moi
-<p>Dans le domaine du developpement web depuis le 7 janvier 2022</p>
-
-
 # 👀 Contact
 <a href="https://linkedin.com/in/brice-comeau" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"      alt="Linkedin" height="32" width="32" />
